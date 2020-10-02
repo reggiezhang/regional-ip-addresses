@@ -18,7 +18,7 @@ NETWORK_TYPES = ['ipv4', 'ipv6']
 # ----- End config -----
 
 # ----- Begin constants -----
-APNIC_URL = 'http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest'
+APNIC_URL = 'https://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest'
 
 # Reserved IP addresses for special purposes. See:
 # https://en.wikipedia.org/wiki/Reserved_IP_addresses
